@@ -1,4 +1,4 @@
-# EmployeeManagementSystem
+# EmployeeManagementSystem-supi2106
 About Employee Management System is a distributed application, developed to maintain the details of employees working in any organization.
 
 • Employee Management System Java Project allows us to manage all employee information in a database where you can
